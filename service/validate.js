@@ -19,4 +19,3 @@ module.exports = {
     validateEmail
 }; // common.js export style
 
-// ecmoscript export style
