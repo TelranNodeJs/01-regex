@@ -1,4 +1,4 @@
-const {validateEcmascriptText, validateDomainZone, validateEmail} = require('./validate'); // common.js export style
+import {validateEcmascriptText, validateDomainZone, validateEmail}  from './validate'; // ecmoscript export style
 
 
 describe('validateEcmascriptText', () => {
