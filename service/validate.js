@@ -17,5 +17,5 @@ module.exports = {
     validateEcmascriptText,
     validateDomainZone,
     validateEmail
-}; // common.js export style
+}; // common.js export  style
 
