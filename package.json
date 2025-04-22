@@ -1,0 +1,14 @@
+{
+  "name": "01-regex",
+  "version": "1.0.0",
+  "description": "regex in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "elena",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
